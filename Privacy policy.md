@@ -1,4 +1,3 @@
-I’ll update the privacy policy into a clearer, privacy-focused Markdown document with proper structure and terminology.```markdown name=Privacy policy.md
 # Privacy Policy
 
 **D365 Company & Environment Switcher** respects your privacy.
