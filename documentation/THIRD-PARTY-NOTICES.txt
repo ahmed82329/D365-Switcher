@@ -1,0 +1,8 @@
+THIRD-PARTY NOTICES
+
+D365 Company & Environment Switcher v4.0.0
+Copyright © 2026 Ahmed Imam. All Rights Reserved.
+
+The runtime source contains no third-party JavaScript libraries, frameworks, fonts, images, analytics, or remote code.
+
+Product and company names mentioned in the extension or documentation may be trademarks of their respective owners. No affiliation or endorsement is implied.

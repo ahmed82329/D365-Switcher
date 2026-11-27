@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>D365 Switcher</title><link rel="stylesheet" href="styles.css"></head>
+<body class="popup"><h1>D365 Switcher</h1><div class="sub">Companies and environments</div>
+<div id="context" class="meta">Reading the current tab…</div>
+<div class="field"><label for="environment">Environment</label><select id="environment" disabled><option value="">Configure an environment first…</option></select></div>
+<div class="field"><label for="company">Company / legal entity</label><select id="company" disabled><option value="">Configure a company first…</option></select></div>
+<div id="status" class="status" role="status" aria-live="polite"></div>
+<div class="actions"><button id="manage" class="primary">Manage lists</button><button id="refresh">Refresh</button></div>
+<div class="footer">Only the active tab is read or changed. No data is transmitted.</div><script src="config.js"></script><script src="popup.js"></script></body></html>
