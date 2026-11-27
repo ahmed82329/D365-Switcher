@@ -1,0 +1,7 @@
+commit 674fdd41e42272e320d4148e519d71dd8d52755d
+Author:     Ahmed Imam <ahmed-imam@local.invalid>
+AuthorDate: Tue Nov 24 07:19:14 2026 +0000
+Commit:     Ahmed Imam <ahmed-imam@local.invalid>
+CommitDate: Tue Nov 24 07:19:14 2026 +0000
+
+    Release D365 Company & Environment Switcher v4.0.0

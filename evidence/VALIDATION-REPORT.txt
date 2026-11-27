@@ -1,0 +1,10 @@
+Public release validation
+
+Run: python evidence/validate_release.py
+Scope: public-store source and the Chrome, Edge, and Firefox public packages.
+Run date: 27 November 2026
+
+The full-history Git bundle is excluded. Repository history is unchanged;
+earlier commits may retain files removed from the current delivery tree.
+
+Validation result: 161/161 checks passed.

@@ -2,8 +2,7 @@
 
 ## 4.0.0 — 24 November 2026
 
-- Created separate public and REDA-private variants.
-- Removed REDA-specific values from the public build.
+- Prepared public-store builds with empty defaults.
 - Added proprietary ownership and license notices for Ahmed Imam.
 - Added privacy policy, terms, third-party notices, ownership record, and submission materials.
 - Added Firefox no-data declaration.

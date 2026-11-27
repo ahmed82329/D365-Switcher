@@ -1,0 +1,2 @@
+No full-history Git bundle is included in this delivery.
+Bundle verification is not applicable. Repository history is unchanged.

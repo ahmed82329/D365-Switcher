@@ -7,6 +7,5 @@
 - **Release date:** 24 November 2026
 - **License:** Proprietary; all rights reserved; limited end-user license in `LICENSE.txt`
 - **Public distribution variants:** Chrome Web Store, Microsoft Edge Add-ons, Mozilla Add-ons
-- **Private variant:** REDA-configured developer build
 
 This record documents the owner's assertion and the packaged work. It is not a government registration, notarization, or legal adjudication. Keep this delivery archive, hashes, Git history, store receipts, and approval correspondence together.

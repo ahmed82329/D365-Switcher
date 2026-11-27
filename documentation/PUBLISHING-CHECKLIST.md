@@ -36,13 +36,13 @@
 - Upload `D365-Switcher-v4.0.0-Firefox-unsigned.xpi` as a listed add-on.
 - Select proprietary/custom license terms and link the privacy policy.
 - Declare that no data is collected or transmitted.
-- The code is unminified and contains no build step or third-party dependencies; normally no separate source package should be required, but `D365-Switcher-v4.0.0-Source.zip` is available if requested.
+- The code is unminified and contains no build step or third-party dependencies; the public source is available in `source/public-store/`.
 - Download and archive the Mozilla-signed XPI after approval.
 - Zen users can install the AMO-listed/signed Firefox add-on.
 
 ## Rights evidence
 
-- Import the source into a new private Git repository owned by Ahmed Imam.
+- Import the source into a Git repository controlled by Ahmed Imam.
 - Make the initial commit, tag `v4.0.0`, and do not rewrite release history.
 - Store the full delivery archive and hashes in at least two independent locations.
 - Keep records of the developer accounts, payment receipt, submission timestamps, and approvals.
